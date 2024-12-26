@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "empno": 1501,
+      "name": "Nazneen",
+      "city": "Bhopal",
+      "salary": 55000
+    },
+    {
+      "id": "2",
+      "empno": 1502,
+      "name": "Shumaila",
+      "city": "Bhopal",
+      "salary": 30000
+    },
+    {
+      "id": "3",
+      "empno": 1503,
+      "name": "Pooja Rajput",
+      "city": "Bhopal",
+      "salary": 34000
+    },
+    {
+      "id": "4",
+      "empno": 1504,
+      "name": "Achal Jain",
+      "city": "Bhopal",
+      "salary": 33000
+    },
+    {
+      "id": "5",
+      "empno": 1505,
+      "name": "Sharadh Mishra",
+      "city": "Bhopal",
+      "salary": 40000
+    },
+    {
+      "id": "61be",
+      "empno": "1206",
+      "name": "Ashfaq",
+      "city": "Indore",
+      "salary": "35000"
+    },
+    {
+      "id": "098a",
+      "empno": "1208",
+      "name": "Shumaila",
+      "city": "Indore",
+      "salary": "35000"
+    }
+  ]
+}
