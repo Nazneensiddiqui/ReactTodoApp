@@ -6,6 +6,7 @@ import Display from "./pages/Display";
 import Update from "./pages/Update";
 import EditData from "./pages/EditData";
 import Search from "./pages/search";
+import Random from "./pages/Random";
 
 const App=()=>{
   return(
@@ -22,6 +23,7 @@ const App=()=>{
       <Route path="display" element={<Display/>}/>
       <Route path="update" element={<Update/>}/>
       <Route path="search" element={<Search/>}/>
+      <Route path="random" element={<Random/>}/>
       <Route path="/EditData/:myid" element={<EditData/>}/>
        </Route>
     </Routes>

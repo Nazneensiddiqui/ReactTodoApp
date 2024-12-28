@@ -8,6 +8,7 @@ const Layout=()=>{
        <Link to="display">Display</Link>      |
        <Link to="update">Update</Link>           |
        <Link to="search">Search</Link>         |
+       <Link to="random">Random</Link>         |
        <hr color="red"/>
      <Outlet/>
 
